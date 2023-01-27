@@ -102,8 +102,7 @@ webencodings==0.5.1
 wget==3.2
 widgetsnbextension==4.0.4
 yarl==1.8.2
-opencv-python-headless
-textblob
-scipy
-numpy
-pytesseract
+opencv-python-headless==4.5.1.48
+textblob==0.15.3
+scipy==1.6.1
+pytesseract==0.3.7
